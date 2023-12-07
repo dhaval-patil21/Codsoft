@@ -1,6 +1,6 @@
 # Codsoft
 
-# Live Link
+# Live Demo of above projects
 # Calculator
 https://calculatorhub-21.netlify.app/
 
